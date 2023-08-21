@@ -18,7 +18,7 @@ here's a small list of my projects on github, feel free to click on any of them 
 </a>
 
 <a href="https://github.com/ElPlatypo/nexus">
-  <img src="images/nexus.png" alt="ElPlatypo/nexus - GitHub" height="90">
+  <img src="/images/nexus.png" alt="ElPlatypo/nexus - GitHub" height="90">
 </a>
 
 <a href="https://github.com/ElPlatypo/particle-simulation">
