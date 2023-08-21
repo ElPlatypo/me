@@ -24,7 +24,7 @@ I'm mostly self-taught in many of theese things but here's a list of what i've l
     here's a small render i made \
     {{< rawhtml >}} 
         <video width=50% controls autoplay>
-            <source src="/images/genowave.mp4" type="video/webm">
+            <source src="/videos/genowave.mp4" type="video/webm">
             Your browser does not support the video tag.  
         </video>
     {{< /rawhtml >}}
