@@ -23,13 +23,13 @@ I'm mostly self-taught in many of theese things but here's a list of what i've l
     - `Blender` - 3D modeling, rendering, vfx compositing, functional prototyping \
     here's a small render i made \
     {{< rawhtml >}} 
-        <video width=50% controls autoplay>
+        <video width=50% controls loop>
             <source src="/videos/genowave.mp4" type="video/webm">
             Your browser does not support the video tag.  
         </video>
     {{< /rawhtml >}}
-    - `Unity 3D` - Videogame production, physics simulator
-    snippet from a game i worked on, where a room layout is first generated procedurally, then populated with "enemies" \
+    - `Unity 3D` - Videogame production, physics simulator \
+    snippet from a game i worked on, where a room layout is first procedurally generated, then populated with enemies \
     ![Image alt](/videos/unity.gif)
     - `Adobe Premiere` - Video editing
     - `Git` - Code version control
