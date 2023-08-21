@@ -16,6 +16,7 @@ I'm mostly self-taught in many of theese things but here's a list of what i've l
     - I've played around with many languages such as C++, C# and a bit of java but i have the most experience with Rust And python.
     - Machine learning is a very interesting field and i've been captivated by it from the moment i first discovered it. I've worked a bit with different models and architectures, from transformer-based LLMs to diffusion-based image generators.
     - Linux is a powerful environment to develop software, in order to write code i've learned my way around interacting with the OS via command line and how to troubleshoot (let's be honest) frequent problems.
+    - I managed for many years a personal arch-based server, and i learned a bit about system management, remote infrstructure and service management tools like Docker.
 
 - `Software & Tools` \
     Through my experiences, i've learned that often the best way to solve a problem is not bashing your head againt it until it is solved, but instead knowing the right tools to achieve the wanted result without reinventing the wheel everytime or wasting time. Because of this i've learned many tools and frameworks that helped me with my projects in the past.
@@ -23,7 +24,7 @@ I'm mostly self-taught in many of theese things but here's a list of what i've l
     - `Blender` - 3D modeling, rendering, vfx compositing, functional prototyping \
     here's a small render i made \
     {{< rawhtml >}} 
-        <video width=50% controls loop>
+        <video width=50% controls loop autoplay>
             <source src="/videos/genowave.mp4" type="video/webm">
             Your browser does not support the video tag.  
         </video>
@@ -41,7 +42,7 @@ I'm mostly self-taught in many of theese things but here's a list of what i've l
 
 - `DIY` \
     I always liked bringing to the real world things and projects i had in my mind so i've learned many practical skills to achieve my goals.
-    From the basics of electronic circuitry to play around with arduino's to the correct way to operate big and dangerous powertools, just as much as in the digital space, knowing the right tool to use for any given task is already half of the job done.
+    From the basics of electronic circuitry to play around with arduino's to the correct way to operate big and dangerous powertools, just as much as in the digital space, knowing the right tool to use for any given task is half of the job.
     
 # What do i like
 
