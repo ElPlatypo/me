@@ -57,14 +57,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     name = "Projects"
     url = "/projects/"
     title = ""
-  [[menu.main]]
-    weight = 3
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
 
 [params]
   # site default theme ["auto", "light", "dark"]
@@ -81,7 +73,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # website description for RSS, SEO, Open Graph and Twitter Cards
   description = "Personal Website"
   # website images for Open Graph and Twitter Cards
-  images = ["/logo.png"]
+  images = ["/images/MRplatypus.png"]
 
   # Header config
   [params.header]
@@ -92,11 +84,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  Header title config
     [params.header.title]
       # URL of the LOGO
-      logo = ""
+      logo = "/images/MRplatypus.png"
       # title name
       name = "ElPlatypo"
       # you can add extra information before the name (HTML format is supported), such as icons
-      pre = "<img src='/images/MastaPlatypus.png'>"
+      pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       #  whether to use typeit animation for title name
@@ -195,7 +187,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = ""
+      disclaimer = "Welcome to my personal page, feel free to click the post below to know more about me, or check the projects page to see what i am working on at the moment!"
     # Home page posts
     [params.home.posts]
       enable = true
@@ -280,7 +272,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "xxxx@xxxx.com"
+    Email = "dighero.tommaso@gmail.com"
     RSS = false # 
 
   #  Page global config

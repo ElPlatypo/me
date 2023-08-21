@@ -15,19 +15,28 @@ I have a deep passion for science and a small background in physics, i love to l
 
 - `Privacy is invaluable` and especially online i feel like we should be a bit more concious of where our personal data goes and gets sold for profit. I'm not saying that that data could potentially serve very nefarious pourposes in the future, i'm just saying that it'd be best for it to not exist in the first place.
 
-- The world is an incredibly complex machine of cause and effect, to properly understand the situation, culture and economy we live in it's essential to look at what is happening around us. `Kepping up to date on current world events and politics is incredibly fascinating` to me and knowing the context, culture and history of a region or state is crucial to properly understand what is going on there currently.
+- The world is an incredibly complex machine of cause and effect, to properly understand the situation, culture and economy we live in it's essential to look at what is happening around us. `Keeping up to date on current world events and politics is incredibly fascinating` to me and knowing the context, culture and history of a region or state is crucial to properly understand what is going on there currently.
 
 # What do i like
 
 Here's a small list of my biggest interests
 
-- `Software`
-- `Space Technologies`
-- `Machine Learning`
-- `World Politics`
-- `Physics`
-- `Green Energy`
-- `DIY`
+- `Software` \
+I have always been fascinated by computers, understanding how they work and how i can control them is still today one of my favourite activities. 
+- `Space Technologies` \
+Space is still the ultimate frontier for humanity, to be able to reach and stay among the stars we have to come up with the most advanced tech and unorthodox solutions, pushing humanity to their limit. 
+- `Machine Learning` \
+This is a field that recently gained a lot of popularity, and i stronly believe that used in the correct way and for the right problems machine learning could be an invaluable asset in the near future.
+- `Music` \
+I always loved music, and i recently started trying my hand with a consolle and MIXX. I dont think i could spend an entire day of my life without listening to some music if you asked me to.
+- `World Politics` \
+We live in a chaotic world, governed by interest, kindness and greed. To make sense of our (admittedly not so good) current situation we have to look around us and behind in time.
+- `Physics` \
+I have a background in Physics at univerity and im still incredibly fascinated by it, knowing how the fundamental laws and forces of our universe govern it's development, how the stars and the planets behave how they do, how black holes work instills in me awe and curiosity to this day.
+- `Green Energy` \
+Climate change is probably the biggest challenge our generation will face, we have the power and the mission to transition to cleaner fuels and to help this transition in any way possible.
+- `DIY` \
+Coding software is fun, but you know what's better? Seeing code you wrote influence stuff in the real world. Getting my hands dirty and building stuff by myself has to be one of my favourite activities, from building stuff i need myself, to repairing devices i own to fight consumerims.
 
 # What am i good at
 
@@ -58,7 +67,8 @@ I'm mostly self-taught in many of theese things but here's a list of what i've l
     - `ROOT` - Data analysis and graphing tool developed by CERN \
     give it a look, it's pretty powerful! https://root.cern/ \
     ![Image alt](/images/root.png)
-    - `Transformers` - Machine learning framework and model provider
+    - `Frameworks` - Various frameworks i worked with
+        - Transformers, matplotlib, pyrogram, fastapi, pandas, hugo, rasa, regex, latex, docker, arduino, numpy, wireshark.
 
 - `DIY` \
     I always liked bringing to the real world things and projects i had in my mind so i've learned many practical skills to achieve my goals.
