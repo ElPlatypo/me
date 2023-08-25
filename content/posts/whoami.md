@@ -26,17 +26,17 @@ I'm mostly self-taught in many of theese things but here's a list of what i've l
     {{< rawhtml >}} 
         <video width=50% controls loop autoplay>
             <source src="/videos/genowave.mp4" type="video/webm">
-            Your browser does not support the video tag.  
+            Your browser does not support the video tag. 
         </video>
     {{< /rawhtml >}}
     - `Unity 3D` - Videogame production, physics simulator \
     snippet from a game i worked on, where a room layout is first procedurally generated, then populated with enemies \
-    ![Image alt](/videos/unity.gif)
+    ![Procedural Generation](/videos/unity.gif)
     - `Adobe Premiere` - Video editing
     - `Git` - Code version control
     - `ROOT` - Data analysis and graphing tool developed by CERN \
     give it a look, it's pretty powerful! https://root.cern/ \
-    ![Image alt](/images/root.png)
+    ![Root Graph](/images/root.png)
     - `Frameworks` - Various frameworks i worked with
         - Transformers, matplotlib, pyrogram, fastapi, pandas, hugo, rasa, regex, latex, docker, arduino, numpy, wireshark.
 
