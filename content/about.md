@@ -9,39 +9,45 @@ I have a deep passion for science and a small background in physics, i love to l
 
 # What am i good at
 
-I'm mostly self-taught in many of theese things but here's a list of what i've learned in my journey so far
+Both during my years at university and in my free time i had the time to learn and teach myself many different things, following my interests and often falling inside deep rabbit holes on topics i previously never even heard of.
 
 - `Programming`
 
-    - I've played around with many languages such as C++, C# and a bit of java but i have the most experience with Rust And python.
-    - Machine learning is a very interesting field and i've been captivated by it from the moment i first discovered it. I've worked a bit with different models and architectures, from transformer-based LLMs to diffusion-based image generators.
-    - Linux is a powerful environment to develop software, in order to write code i've learned my way around interacting with the OS via command line and how to troubleshoot (let's be honest) frequent problems.
-    - I managed for many years a personal arch-based server, and i learned a bit about system management, remote infrstructure and service management tools like Docker.
+    - I first started getting into programming back when i was 15 or so and during theese years i've played around with many languages such as C++, C# and a bit of java but i have the most experience with Rust And python. I used theese languages both for personal projects and courses at university, learning a lot while solving everyday problems with this new skill.
+    - Machine learning is a field i've been captivated by from the moment i first discovered it. The whole concept of replicating digitally how our brain works is still incredible to me, but after learning the basics of how theese systems work it's possible to leverage the immense power that AI offers. I've worked a bit with different models and architectures, from transformer-based LLMs to diffusion-based image generators, taking advantage of the playground offered by google at [Colab](https://colab.research.google.com/) and trying to run some of theese models locally on my machine.
+    - Linux is a powerful environment to develop software, in order to write code i've learned my way around interacting with the OS via command line and how to troubleshoot (let's be honest) frequent problems, but after some initial struggling i became more familiar with it, to the point of becoming my daily-driver os in my laptop.
+    - I managed for many years a personal arch-based server, and i learned a bit about system management, remote infrstructure and service management tools like Docker, toghether with the basics of system security, cryptography and privacy on a system-level.
 
-- `Software & Tools` \
-    Through my experiences, i've learned that often the best way to solve a problem is not bashing your head againt it until it is solved, but instead knowing the right tools to achieve the wanted result without reinventing the wheel everytime or wasting time. Because of this i've learned many tools and frameworks that helped me with my projects in the past.
+- `Software & Tools`
+
+    Through my experiences and projects, i've learned that often the best way to solve a problem is not bashing your head againt it until it is solved, but instead knowing the right tools to achieve the wanted result without reinventing the wheel everytime or wasting time. Because of this i've learned many tools and frameworks that helped me with my projects in the past.
 
     - `Blender` - 3D modeling, rendering, vfx compositing, functional prototyping \
-    here's a small render i made \
+    here's a small render i made 
+
     {{< rawhtml >}} 
-        <video width=50% controls loop autoplay>
+        <video width=100% controls loop autoplay>
             <source src="/videos/genowave.mp4" type="video/webm">
             Your browser does not support the video tag. 
         </video>
     {{< /rawhtml >}}
+
     - `Unity 3D` - Videogame production, physics simulator \
-    snippet from a game i worked on, where a room layout is first procedurally generated, then populated with enemies \
+    snippet from a game i worked on, where a room layout is first procedurally generated, then populated with enemies 
+
     ![Procedural Generation](/videos/unity.gif)
+
     - `Adobe Premiere` - Video editing
-    - `Git` - Code version control
-    - `ROOT` - Data analysis and graphing tool developed by CERN \
-    give it a look, it's pretty powerful! https://root.cern/ \
+    - `Arduino IDE` - Arduino board programming platform
+    - `Root` - Data analysis and graphing tool developed by [CERN](https://root.cern/)
+
     ![Root Graph](/images/root.png)
     - `Frameworks` - Various frameworks i worked with
         - Transformers, matplotlib, pyrogram, fastapi, pandas, hugo, rasa, regex, latex, docker, arduino, numpy, wireshark.
 
-- `DIY` \
-    I always liked bringing to the real world things and projects i had in my mind so i've learned many practical skills to achieve my goals.
+- `DIY and prototyping`
+
+    I always liked bringing to the real world ideas and projects i had in my mind so i've learned many practical skills to achieve this goal.
     From the basics of electronic circuitry to play around with arduino's to the correct way to operate big and dangerous powertools, just as much as in the digital space, knowing the right tool to use for any given task is half of the job.
     
 # What do i like
