@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 date: 2023-08-19T15:09:11+02:00
-layout: "baseof"
 ---
 
 

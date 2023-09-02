@@ -40,22 +40,22 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 [menu]
   [[menu.main]]
     weight = 1
+    identifier = "About"
+    pre = ""
+    post = ""
+    name = "About"
+    url = "/About/"
+    title = ""
+  [[menu.main]]
+    weight = 2
     identifier = "posts"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "Posts"
+    name = "Projects"
     url = "/posts/"
     # title will be shown when you hover on this menu link
-    title = ""
-  [[menu.main]]
-    weight = 2
-    identifier = "projects"
-    pre = ""
-    post = ""
-    name = "Projects"
-    url = "/projects/"
     title = ""
 
 [params]
@@ -190,7 +190,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = "Welcome to my personal page, feel free to click the post below to know more about me, or check the projects page to see what i am working on at the moment!"
+      disclaimer = "Welcome to my personal page, feel free to click the About page to know more about me, or check the projects page to see what i am working on!"
     # Home page posts
     [params.home.posts]
       enable = true
