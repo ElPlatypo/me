@@ -14,9 +14,9 @@ One thing that i immediately realized is that in order to use any mixing softwar
 
 Spoodl is a simple python script that aims to solve this very problem, it's use is to syncronize playlists on spotify with a local folder of .mp3 files. To use it, simply copy-paste the link to a spotify playlist on the correct .txt file and Spoodl will start using spotify public API's (This is the reason a spotify developer account is needed, for more info visit https://developer.spotify.com/documentation/web-api) to fetch metadata from every song in the playlist and use that metadata to compile a search query on youtube, find all possible matches on youtube and prompt the user on what version to select, download and convert the selected video to an audio and finally apply all the song metadata gathered from spotify to the correct tags on the .mp3 file.
 
-Each time the script is run it will detect changes done on the spotify playlist and ask the user to delete/download new songs if needed.
+Each time the script is run it will detect changes done on the spotify playlist and ask the user to delete/download new songs if needed. making sure that the local files are an exact copy of the selected playlists
 
-Check it out on  GitHub!
+Check it out on [GitHub!](https://github.com/ElPlatypo/spoodl)
 
 <a href="https://github.com/ElPlatypo/spoodl">
   <img src="/images/spoodl.png" alt="ElPlatypo/spoodl - GitHub" height="90">

@@ -43,6 +43,11 @@ Since there was no specific language requested to create this program i decided 
 
 It didnt disappoint, i originally started working on a python implementation but when i switched to rust i immediately noticed a 10-100x improvement on execution time, so i was satisfied with my choice and i decided to press on. A more in depth look at the implementation can be found in the GitHub [page](https://github.com/ElPlatypo/particle-simulation)
 
+For a more detailed look at the code you can check out the source code on [GitHub!](https://github.com/ElPlatypo/particle-simulation)
+<a href="https://github.com/ElPlatypo/particle-simulation">
+  <img src="/images/particle-simulation.png" alt="ElPlatypo/particle-simulation - GitHub" height="90">
+</a>
+
 # Results
 
 Once the program was done i run some tests to see if everything worked correctly. Here you can see a plot of the total enegy of the system over time.

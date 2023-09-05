@@ -28,3 +28,9 @@ Here is one of the timelapses i compiled, with the ISS going over central Asia
         Your browser does not support the video tag. 
     </video>
 {{< /rawhtml >}}
+
+The source code is aviable at [GitHub](https://github.com/ElPlatypo/nasa-image-downloader)
+
+<a href="https://github.com/ElPlatypo/nasa-image-downloader">
+  <img src="/images/nasa-image-downloader.png" alt="ElPlatypo/nasa-image-downloader - GitHub" height="90">
+</a>

@@ -21,3 +21,9 @@ At its core, Nexus operates through a sophisticated orchestration process. When 
 Once the task is comprehended, the core module gathers any missing contextual information required for task execution. For instance, if the task involves providing the weather forecast for the next two hours, but the location is missing, Nexus intelligently prompts the user for this information. The gathered data is then passed to the task manager, responsible for spawning independent processes to perform the requested tasks. 
 
 The task manager forms the heart of Nexus's functionality. It houses the intricate logic necessary to execute a task seamlessly. Importantly, this is also where users can contribute to the system's growth. To teach Nexus a new task, users need only write the task's logic, accompanied by a bit of standardized code. The modular nature of the system ensures that this new capability integrates seamlessly into the assistant's skill set, ready to be deployed the next time it's needed.
+
+You can find the source code over at [GitHub](https://github.com/ElPlatypo/nexus)
+
+<a href="https://github.com/ElPlatypo/nexus">
+  <img src="/images/nexus.png" alt="ElPlatypo/nexus - GitHub" height="90">
+</a>
