@@ -32,22 +32,22 @@ Both during my years at university and in my free time, I had the time to learn 
         </video>
     {{< /rawhtml >}}
 
-- `Unity 3D` - Video game production, physics simulator \
-    Unity is a powerful game-engine, it combines all the tools you need to make intractable experiences, be they games or simulations. The language used in this engine is C#, and that's where I've got my experience in this language.
-    Here's a snippet from a game I worked on, where a room layout is first procedurally generated, then populated with enemies: \
-    ![Procedural Generation](/videos/dronegame.gif)
+    - `Unity 3D` - Video game production, physics simulator \
+        Unity is a powerful game-engine, it combines all the tools you need to make intractable experiences, be they games or simulations. The language used in this engine is C#, and that's where I've got my experience in this language.
+        Here's a snippet from a game I worked on, where a room layout is first procedurally generated, then populated with enemies: \
+        ![Procedural Generation](/videos/dronegame.gif)
 
-- `Root` - Data analysis and graphing tool developed by [CERN](https://root.cern/) \
-    Root is a powerful framework primarily used at CERN to gather, analyze, and clean data coming from experiments.
-    ![Root Graph](/images/root.png)
+    - `Root` - Data analysis and graphing tool developed by [CERN](https://root.cern/) \
+        Root is a powerful framework primarily used at CERN to gather, analyze, and clean data coming from experiments.
+        ![Root Graph](/images/root.png)
 
 
-- `Adobe Premiere` - Video editing
-- `Adobe Photoshop` - Image editing and creation
-- `Microsoft Suite` - Collection of programs used for office work
-- `Arduino IDE` - Arduino board programming platform
-- `Frameworks` - Various frameworks i worked with
-    - Transformers, matplotlib, pyrogram, fastapi, pandas, hugo, rasa, regex, latex, docker, arduino, numpy, wireshark.
+    - `Adobe Premiere` - Video editing
+    - `Adobe Photoshop` - Image editing and creation
+    - `Microsoft Suite` - Collection of programs used for office work
+    - `Arduino IDE` - Arduino board programming platform
+    - `Frameworks` - Various frameworks i worked with
+        - Transformers, matplotlib, pyrogram, fastapi, pandas, hugo, rasa, regex, latex, docker, arduino, numpy, wireshark.
 
 - `DIY and prototyping`
 
